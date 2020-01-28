@@ -1,8 +1,10 @@
 # anndl
 ### Artificial Neural Networks and Deep Learning
 
-This repository provides an introduction to the field of Artificial Neural Networks and Deep Learning at Lund University (FYTN14/EXTQ40/NTF005F) .
-The course covers the most common models in artificial neural networks with a focus on the multi-layer perceptron. The course also provides an introduction to deep learning. Selected topics:
+This repository provides an introduction to the field of Artificial Neural Networks and Deep Learning. It covers the most common models in artificial neural networks with a focus on the multi-layer perceptron. The repo also provides an introduction to deep learning. The material are based on the following book:
+Ian Goodfellow, Yoshua Bengio, Aaron Courville: \textit{Deep Learning}. An HTLM version of the book is available at \url{https://www.deeplearningbook.org/}
+
+The main topics included are the following:
 
 #### Feed-forward neural networks
 The simple perceptron and the multi-layer perceptron, choice of suitable error functions and techniques to minimize them, how to detect and avoid overtraining, ensembles of neural networks and techniques to create them, Bayesian training of multi-layer perceptrons 
