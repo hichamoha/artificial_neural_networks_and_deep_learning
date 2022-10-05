@@ -2,7 +2,7 @@
 
 This repository provides an introduction to the field of Artificial Neural Networks and Deep Learning. It covers the most common models in artificial neural networks with a focus on the multi-layer perceptron. The material also provides an introduction to deep learning: An overview of convolutional neural networks (CNN) for classification of images, different techniques to avoid overtraining in deep networks, techniques to pre-train deep networks
 
-The material are based on the text book *Deep Learning* by Goodfellow et al., as well as on the lecture notes from Computational Biology & Biological Physics (CBBP) in the department of *Astronomy and Theoretical Physics at Lund University*. An HTLM version of the book (Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning) is available at https://www.deeplearningbook.org/ 
+The material are based on the text book *Deep Learning* by Goodfellow et al., and the course Convolutional Neural Networks for Visual Recognition (CS231N) at Stanford https://cs231n.github.io/neural-networks-1/, as well as on the lecture notes from Computational Biology & Biological Physics (CBBP) in the department of *Astronomy and Theoretical Physics at Lund University*. An HTLM version of the book (Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning) is available at https://www.deeplearningbook.org/ 
 
 The main topics of the content included in this material can be summarized by the following:
 
